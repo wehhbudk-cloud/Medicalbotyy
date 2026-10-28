@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+openai
+requests
+httpx
+flask
+uvloop
